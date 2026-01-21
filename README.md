@@ -18,8 +18,11 @@ Raw datasets are **not hosted** in this repository.
 
 ## TEAM STRUCTURE
 • Aksheta S – Embedded systems development, low power firmware design, sensor interfacing (PPG, IMU, sEMG), and end to end hardware implementation on the STM32 platform.
+
 • Srinithi S – Signal preprocessing, data acquisition pipelines, feature extraction from physiological signals, dataset preparation for AI training, and technical documentation of system workflows and performance metrics.
+
 • Dharani Sri P – Hardware prototyping, circuit assembly, sensor calibration, functional testing, validation of signal accuracy, and support for system reliability and power optimization.
+
 • Ashavikashini K – System architecture design, AI model logic (risk classification and decision rules), hardware software integration, and overall technical coordination of the project.
 
 ## Disclaimer
