@@ -16,8 +16,7 @@ The project aims to explore non-invasive physiological sensing and lightweight m
 This project uses publicly available, open-access datasets (e.g., Zenodo, UCI) for research and validation purposes.  
 Raw datasets are **not hosted** in this repository.
 
-##TEAM STRUCTURE
-**Team Structure**
+## TEAM STRUCTURE
 • Aksheta S – Embedded systems development, low power firmware design, sensor interfacing (PPG, IMU, sEMG), and end to end hardware implementation on the STM32 platform.
 • Srinithi S – Signal preprocessing, data acquisition pipelines, feature extraction from physiological signals, dataset preparation for AI training, and technical documentation of system workflows and performance metrics.
 • Dharani Sri P – Hardware prototyping, circuit assembly, sensor calibration, functional testing, validation of signal accuracy, and support for system reliability and power optimization.
