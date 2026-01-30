@@ -25,6 +25,9 @@ Raw datasets are **not hosted** in this repository.
 
 • Ashavikashini K : System architecture design, AI model logic (risk classification and decision rules), hardware software integration, and overall technical coordination of the project.
 
+**Project Google Colab link:**  
+https://colab.research.google.com/drive/1LbSCnxkUrlOANQ5QsJ4xOP2Rv3Amrib7?usp=sharing
+
 ## Disclaimer
 This project is for academic and prototype validation purposes only and is **not intended for clinical use**.
 
